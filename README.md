@@ -10,12 +10,12 @@ Me chamo Letícia; sou uma estudante de cibersegurança e programação, atualme
 
 As áreas da cibersegurança que mais tenho interesse - e as que mais estudo - são: hacking ético e pentest. Sim, segurança ofensiva! Ou seja...
 
-<img src="https://github.com/LeRodrigues2005/LeRodrigues2005/assets/97632543/48244359-616f-41f8-9fee-bc04cf7a8b98" width="250" height="200">
+<img src="https://github.com/LeRodrigues2005/LeRodrigues2005/assets/97632543/48244359-616f-41f8-9fee-bc04cf7a8b98" width="230" height="200">
 
 # Redes Sociais:
 
-LINKEDIN => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
+Linkedin  => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
-INSTAGRAM => https://www.instagram.com/leticia_rodrigues2005/
+Instagram => https://www.instagram.com/leticia_rodrigues2005/
 
 
