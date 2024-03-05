@@ -10,7 +10,7 @@ Me chamo Letícia, sou uma estudante de cibersegurança e programação, atualme
 
 As áreas da cibersegurança que mais tenho interesse - e as que mais estudo - são: hacking ético e pentest. Sim, segurança ofensiva! Ou seja...
 
-![redteam](https://github.com/LeRodrigues2005/LeRodrigues2005/assets/97632543/48244359-616f-41f8-9fee-bc04cf7a8b98){:width="80px" height="50px"}
+
 
 
 
