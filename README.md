@@ -14,8 +14,8 @@ As áreas da cibersegurança que mais tenho interesse - e as que mais estudo - s
 
 # Redes Sociais:
 
-<img src="[https://github.com/LeRodrigues2005/LeRodrigues2005/assets/97632543/48244359-616f-41f8-9fee-bc04cf7a8b98](https://github.com/LeRodrigues2005/LeRodrigues2005/assets/97632543/07ff2c18-ad27-43e4-9347-d350f50c6fc3)" width="60" height="60"> => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
+LINKEDIN => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
-<img src="https://github.com/LeRodrigues2005/LeRodrigues2005/assets/97632543/48244359-616f-41f8-9fee-bc04cf7a8b98" width="60" height="60"> => https://www.instagram.com/leticia_rodrigues2005/
+INSTAGRAM => https://www.instagram.com/leticia_rodrigues2005/
 
 
