@@ -8,12 +8,12 @@ Meu nome é Letícia e sou apaixonada por **cibersegurança** e **programação*
 
 # Cibersegurança:
 
-Minhas áreas de interesse na cibersegurança incluem hacking ético e pentest, especialmente na vertente de segurança ofensiva, conhecida como ***Red Team***.
+Minhas áreas de interesse na cibersegurança incluem **hacking ético** e **pentest**, especialmente na vertente de segurança ofensiva, conhecida como ***Red Team***.
 
 ## Redes Sociais:
 
-- _Linkedin_  => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
+- _Linkedin_  -> https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
-- _Instagram_ => https://www.instagram.com/leticia_rodrigues2005/
+- _Instagram_ -> https://www.instagram.com/leticia_rodrigues2005/
 
 
