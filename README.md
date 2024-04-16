@@ -1,6 +1,6 @@
-# Hello, world!
+# Hello, world! 👋
 
-Meu nome é Letícia. Sou estudante de **cibersegurança** e **programação**, atualmente focada em melhorar os meus conhecimentos e habilidades nestas áreas através de estudos independentes, cursos relevantes e atividades práticas. Sendo autodidata, adquiri competências muito úteis como gestão de projetos, resolução de problemas e estratégia, tornando-me eficiente nos meus estudos e na realização de tarefas.
+Meu nome é Letícia e sou apaixonada por cibersegurança e programação. Atualmente, estou focada em aprimorar meus conhecimentos e habilidades nessas áreas por meio de estudos independentes, cursos relevantes e projetos práticos. Como autodidata, desenvolvi competências valiosas em gestão de projetos, resolução de problemas e estratégia, tornando-me eficiente tanto nos estudos quanto na execução de tarefas.
 
 # Linguagens:
 
@@ -8,7 +8,7 @@ Meu nome é Letícia. Sou estudante de **cibersegurança** e **programação**, 
 
 # Cibersegurança:
 
-As áreas da cibersegurança que mais tenho interesse - e as que mais estudo - são: hacking ético e pentest. Sim, segurança ofensiva: Red Team!
+Minhas áreas de interesse na cibersegurança incluem hacking ético e pentest, especialmente na vertente de segurança ofensiva, conhecida como Red Team.
 
 ## Redes Sociais:
 
