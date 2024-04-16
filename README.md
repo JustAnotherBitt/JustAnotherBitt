@@ -1,6 +1,6 @@
 # Hello, world!
 
-Me chamo Letícia; sou uma estudante de cibersegurança e programação, atualmente focada em melhorar os meus conhecimentos e habilidades nestas áreas através de estudos independentes, cursos relevantes e atividades práticas. Sendo autodidata, adquiri competências muito úteis como gestão de projetos, resolução de problemas e estratégia, tornando-me eficiente nos meus estudos e na realização de tarefas.
+Meu nome é Letícia. Sou estudante de **cibersegurança** e **programação**, atualmente focada em melhorar os meus conhecimentos e habilidades nestas áreas através de estudos independentes, cursos relevantes e atividades práticas. Sendo autodidata, adquiri competências muito úteis como gestão de projetos, resolução de problemas e estratégia, tornando-me eficiente nos meus estudos e na realização de tarefas.
 
 # Linguagens:
 
@@ -8,12 +8,12 @@ Me chamo Letícia; sou uma estudante de cibersegurança e programação, atualme
 
 # Cibersegurança:
 
-As áreas da cibersegurança que mais tenho interesse - e as que mais estudo - são: hacking ético e pentest. Sim, segurança ofensiva! Red Team.
+As áreas da cibersegurança que mais tenho interesse - e as que mais estudo - são: hacking ético e pentest. Sim, segurança ofensiva: Red Team!
 
-# Redes Sociais:
+## Redes Sociais:
 
-Linkedin  => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
+- Linkedin  => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
-Instagram => https://www.instagram.com/leticia_rodrigues2005/
+- Instagram => https://www.instagram.com/leticia_rodrigues2005/
 
 
