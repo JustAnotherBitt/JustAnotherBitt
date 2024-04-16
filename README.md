@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-Meu nome é Letícia e sou apaixonada por cibersegurança e programação. Atualmente, estou focada em aprimorar meus conhecimentos e habilidades nessas áreas por meio de estudos independentes, cursos relevantes e projetos práticos. Como autodidata, desenvolvi competências valiosas em gestão de projetos, resolução de problemas e estratégia, tornando-me eficiente tanto nos estudos quanto na execução de tarefas.
+Meu nome é Letícia e sou apaixonada por **cibersegurança** e **programação**. Atualmente, estou focada em aprimorar meus conhecimentos e habilidades nessas áreas por meio de estudos independentes, cursos relevantes e projetos práticos. Como autodidata, desenvolvi competências valiosas em gestão de projetos, resolução de problemas e estratégia, tornando-me eficiente tanto nos estudos quanto na execução de tarefas.
 
 # Linguagens:
 
@@ -8,12 +8,12 @@ Meu nome é Letícia e sou apaixonada por cibersegurança e programação. Atual
 
 # Cibersegurança:
 
-Minhas áreas de interesse na cibersegurança incluem hacking ético e pentest, especialmente na vertente de segurança ofensiva, conhecida como Red Team.
+Minhas áreas de interesse na cibersegurança incluem hacking ético e pentest, especialmente na vertente de segurança ofensiva, conhecida como ***Red Team***.
 
 ## Redes Sociais:
 
-- Linkedin  => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
+- _Linkedin_  => https://www.linkedin.com/in/letícia-rodrigues-a75134254/
 
-- Instagram => https://www.instagram.com/leticia_rodrigues2005/
+- _Instagram_ => https://www.instagram.com/leticia_rodrigues2005/
 
 
