@@ -7,13 +7,6 @@ My name is Letícia, and I am passionate about cybersecurity and programming. Cu
 # Cybersecurity:
 My areas of interest in cybersecurity include ethical hacking and penetration testing, especially in the offensive security domain, known as Red Team.
 
-## Folow me
 
-<table>
-  <tr>
-    <td><img loading="lazy" src="https://github.com/LeRodrigues2005/Randomik/assets/97632543/2596913e-d7ec-4164-83b8-3d7bd357242d" width="40" height="40"/></td>
-    <td style="vertical-align: middle;"> <a href="https://www.linkedin.com/in/letícia-rodrigues-a75134254/">Letícia Rodrigues on LinkedIn</a> </td>
-  </tr>
-</table>
 
 
