@@ -9,4 +9,6 @@ My areas of interest in cybersecurity include ethical hacking and penetration te
 
 
 
+_You can contact me by email: <a>leticiadepatta@gmail.com</a>_
+
 
