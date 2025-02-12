@@ -31,6 +31,5 @@ I am particularly interested in:
 Want to connect or collaborate? Feel free to reach out!  
 
 📧 Email: **[justanotherbitt@gmail.com](mailto:justanotherbitt@gmail.com)**  
-🐙 GitHub: **[@LeRodrigues2005](https://github.com/LeRodrigues2005)**  
 
 
