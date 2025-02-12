@@ -5,8 +5,6 @@ I am passionate about **cybersecurity** and **programming**, always seeking to e
 
 As a self-taught learner, I have honed valuable skills in **problem-solving, project management, and strategic thinking**, allowing me to efficiently tackle challenges both in my studies and real-world applications.  
 
----
-
 ## 🚀 Technical Skills  
 
 ### 🖥️ Programming Languages  
@@ -18,8 +16,6 @@ I have experience working with the following languages:
 - **C#** ⚙️ – Application development and software engineering  
 - **JavaScript, HTML, CSS** 🌐 – Web development and frontend projects  
 
----
-
 ### 🔐 Cybersecurity & Ethical Hacking  
 
 I am particularly interested in:  
@@ -29,9 +25,6 @@ I am particularly interested in:
 ✔️ **Reverse Engineering & Cryptography** – Understanding exploits and encryption methods  
 
 📌 I frequently participate in **CTFs**, security challenges, and hands-on labs to sharpen my skills.  
-
----
-
 
 ## 📫 Contact  
 
