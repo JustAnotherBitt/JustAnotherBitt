@@ -1,14 +1,43 @@
 # Hello, world! 👋
-My name is Letícia, and I am passionate about cybersecurity and programming. Currently, I am focused on enhancing my knowledge and skills in these areas through self-study, relevant courses, and practical projects. As a self-taught learner, I have developed valuable competencies in project management, problem-solving, and strategy, making me efficient both in my studies and in task execution.
 
-# Languages:
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
+## 🛡️ About Me  
+I am passionate about **cybersecurity** and **programming**, always seeking to expand my knowledge through self-study, hands-on projects, and relevant courses. My primary focus is on **ethical hacking, penetration testing, and offensive security**.  
 
-# Cybersecurity:
-My areas of interest in cybersecurity include ethical hacking and penetration testing, especially in the offensive security domain, known as Red Team.
+As a self-taught learner, I have honed valuable skills in **problem-solving, project management, and strategic thinking**, allowing me to efficiently tackle challenges both in my studies and real-world applications.  
+
+---
+
+## 🚀 Technical Skills  
+
+### 🖥️ Programming Languages  
+I have experience working with the following languages:  
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>  
+
+- **Python** 🐍 – Automation, cybersecurity tools, and scripting  
+- **C#** ⚙️ – Application development and software engineering  
+- **JavaScript, HTML, CSS** 🌐 – Web development and frontend projects  
+
+---
+
+### 🔐 Cybersecurity & Ethical Hacking  
+
+I am particularly interested in:  
+✔️ **Penetration Testing (Red Team)** – Offensive security strategies and exploitation techniques  
+✔️ **CTF Challenges** – Capture The Flag competitions to enhance problem-solving and hacking skills  
+✔️ **Network Security** – Exploring vulnerabilities and improving defense mechanisms  
+✔️ **Reverse Engineering & Cryptography** – Understanding exploits and encryption methods  
+
+📌 I frequently participate in **CTFs**, security challenges, and hands-on labs to sharpen my skills.  
+
+---
 
 
+## 📫 Contact  
 
-_You can contact me by email: <a>leticiadepatta@gmail.com</a>_
+Want to connect or collaborate? Feel free to reach out!  
+
+📧 Email: **[justanotherbitt@gmail.com](mailto:justanotherbitt@gmail.com)**  
+🐙 GitHub: **[@LeRodrigues2005](https://github.com/LeRodrigues2005)**  
 
 
