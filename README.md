@@ -6,6 +6,8 @@ I am passionate about **cybersecurity** and **programming**, always seeking to e
 
 As a self-taught learner, I have honed valuable skills in **problem-solving, project management, and strategic thinking**, allowing me to efficiently tackle challenges both in my studies and real-world applications.  
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JustAnotherBitt?cardType=level&theme=ocean-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ## 🚀 Technical Skills  
 
 ### 🖥️ Programming Languages  
