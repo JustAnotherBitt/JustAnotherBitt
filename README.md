@@ -2,9 +2,9 @@
 
 ## 🛡️ About Me  
 
-I am passionate about **cybersecurity** and **programming**, always seeking to expand my knowledge through self-study, hands-on projects, and relevant courses. My primary focus is on **ethical hacking, penetration testing, and offensive security**.  
+I am passionate about **cybersecurity** and **programming**, always seeking to expand my knowledge through self-study, hands-on projects and relevant courses. My primary focus is on **ethical hacking, penetration testing and offensive security**.  
 
-As a self-taught learner, I have honed valuable skills in **problem-solving, project management, and strategic thinking**, allowing me to efficiently tackle challenges both in my studies and real-world applications.  
+As a self-taught learner, I have honed valuable skills in **problem-solving, project management and strategic thinking**, allowing me to efficiently tackle challenges both in my studies and real-world applications.  
 
 ## 🚀 Technical Skills  
 
@@ -30,7 +30,7 @@ I am particularly interested in:
 
 ✔️ **Reverse Engineering & Cryptography** – Understanding exploits and encryption methods.  
 
-📌 I frequently participate in **CTFs**, security challenges, and hands-on labs to sharpen my skills.  
+📌 I frequently participate in **CTFs**, security challenges and hands-on labs to sharpen my skills.  
 
 ## 📫 Contact  
 
