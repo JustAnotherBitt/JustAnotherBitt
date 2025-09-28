@@ -25,7 +25,7 @@ I have experience working with the following languages:
 
 ⚡️ **Alert: Python lover detected! 🐍💜**
 
-- **Python** 🐍 – Automation, cybersecurity tools and scripting.
+- **Python** 🐍 – Automation, games, cybersecurity tools and scripting.
 - **C#** ⚙️ – Application development and software engineering.
 - **JavaScript, HTML, CSS** 🌐 – Web development and frontend projects.
 - **Bash Script** 🐧 – Cybersecurity tools and scripting.
